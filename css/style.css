@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/************************
+ *******google fonts*****
+ ************************/
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Poppins:wght@500&display=swap');
+.body-color{
+    background-color: #3b11117a;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
